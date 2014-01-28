@@ -7,4 +7,5 @@ public classe Carro{
 
   private String cor;
 
+  private String nome;
 }:
